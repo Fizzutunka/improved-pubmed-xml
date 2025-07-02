@@ -1,5 +1,5 @@
 # pubmed_XML_parser
-Creating a neo4j database and python XML parser for PubMED abstracts. 
+Creating a neo4j database and XML parser in python for PubMED abstracts. 
 
 
 Create an .env file with the following:
